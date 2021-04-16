@@ -12,6 +12,7 @@ setup(
     name=NAME,
     version=VERSION,
     description="Environment Topics and subtopics",
+    long_description_content_type="text/x-rst",
     long_description=(
         open("README.rst").read() + "\n" +
         open(os.path.join("docs", "HISTORY.txt")).read()
@@ -39,6 +40,7 @@ setup(
         python_requires="==2.7, >=3.6",
         install_requires=[
         'setuptools',
+        "collective.taxonomy",
         # -*- Extra requirements: -*-
     ],
     extras_require={
