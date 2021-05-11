@@ -11,7 +11,7 @@
     </caption>
 
     <term>
-      <termIdentifier>treevocabularyterm.2007-11-19.6132137337</termIdentifier>
+      <termIdentifier>acidification-air</termIdentifier>
       <caption>
         <langstring language="en">Air</langstring>
       </caption>
@@ -25,7 +25,7 @@
     </caption>
 
     <term>
-      <termIdentifier>treevocabularyterm.2007-11-19.6692939073</termIdentifier>
+      <termIdentifier>air_quality-air</termIdentifier>
       <caption>
         <langstring language="en">Air</langstring>
       </caption>
@@ -39,7 +39,7 @@
     </caption>
 
     <term>
-      <termIdentifier>sustainability-transitions</termIdentifier>
+      <termIdentifier>economy-sustainability-transitions</termIdentifier>
       <caption>
         <langstring language="en">Sustainability transitions</langstring>
       </caption>
@@ -53,7 +53,7 @@
     </caption>
 
     <term>
-      <termIdentifier>coast_sea</termIdentifier>
+      <termIdentifier>fishery-coast_sea</termIdentifier>
       <caption>
         <langstring language="en">Coast sea</langstring>
       </caption>
@@ -67,7 +67,7 @@
     </caption>
 
     <term>
-      <termIdentifier>human</termIdentifier>
+      <termIdentifier>health-human</termIdentifier>
       <caption>
         <langstring language="en">Human</langstring>
       </caption>
@@ -81,7 +81,7 @@
     </caption>
 
     <term>
-      <termIdentifier>waste</termIdentifier>
+      <termIdentifier>households-waste</termIdentifier>
       <caption>
         <langstring language="en">Waste</langstring>
       </caption>
@@ -95,7 +95,7 @@
     </caption>
 
     <term>
-      <termIdentifier>treevocabularyterm.2007-11-19.2686027348</termIdentifier>
+      <termIdentifier>information-reporting</termIdentifier>
       <caption>
         <langstring language="en">Reporting</langstring>
       </caption>
@@ -109,7 +109,7 @@
     </caption>
 
     <term>
-      <termIdentifier>treevocabularyterm.2007-11-19.0565847020</termIdentifier>
+      <termIdentifier>management-policy</termIdentifier>
       <caption>
         <langstring language="en">Policy</langstring>
       </caption>
@@ -137,7 +137,7 @@
     </caption>
 
     <term>
-      <termIdentifier>treevocabularyterm.2007-11-19.7134483360</termIdentifier>
+      <termIdentifier>nature-biodiversity</termIdentifier>
       <caption>
         <langstring language="en">Biodiversity</langstring>
       </caption>
@@ -165,7 +165,7 @@
     </caption>
 
     <term>
-      <termIdentifier>default</termIdentifier>
+      <termIdentifier>other_issues-default</termIdentifier>
       <caption>
         <langstring language="en">Default</langstring>
       </caption>
@@ -179,7 +179,7 @@
     </caption>
 
     <term>
-      <termIdentifier>treevocabularyterm.2007-11-19.7596543620</termIdentifier>
+      <termIdentifier>ozone-climate</termIdentifier>
       <caption>
         <langstring language="en">Climate</langstring>
       </caption>
@@ -207,7 +207,7 @@
     </caption>
 
     <term>
-      <termIdentifier>policy</termIdentifier>
+      <termIdentifier>reporting-policy</termIdentifier>
       <caption>
         <langstring language="en">Policy</langstring>
       </caption>
