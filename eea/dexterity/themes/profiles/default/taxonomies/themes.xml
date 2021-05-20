@@ -59,6 +59,36 @@
     </caption>
   </term>
   <term>
+    <termIdentifier>scenarios</termIdentifier>
+    <caption>
+      <langstring language="en">Environmental scenarios</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>technology</termIdentifier>
+    <caption>
+      <langstring language="en">Environmental technology</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>fishery</termIdentifier>
+    <caption>
+      <langstring language="en">Fisheries</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>economy</termIdentifier>
+    <caption>
+      <langstring language="en">Green economy</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>households</termIdentifier>
+    <caption>
+      <langstring language="en">Household consumption</langstring>
+    </caption>
+  </term>
+  <term>
     <termIdentifier>industry</termIdentifier>
     <caption>
       <langstring language="en">Industry</langstring>
@@ -68,6 +98,24 @@
     <termIdentifier>landuse</termIdentifier>
     <caption>
       <langstring language="en">Land use</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>coast_sea</termIdentifier>
+    <caption>
+      <langstring language="en">Marine</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>natural</termIdentifier>
+    <caption>
+      <langstring language="en">Natural resources</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>noise</termIdentifier>
+    <caption>
+      <langstring language="en">Noise</langstring>
     </caption>
   </term>
   <term>
@@ -95,9 +143,27 @@
     </caption>
   </term>
   <term>
+    <termIdentifier>tourism</termIdentifier>
+    <caption>
+      <langstring language="en">Tourism</langstring>
+    </caption>
+  </term>
+  <term>
     <termIdentifier>transport</termIdentifier>
     <caption>
       <langstring language="en">Transport</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>urban</termIdentifier>
+    <caption>
+      <langstring language="en">Urban environment</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>other_issues</termIdentifier>
+    <caption>
+      <langstring language="en">Various other issues</langstring>
     </caption>
   </term>
   <term>
