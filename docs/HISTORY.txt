@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.1-dev0 - (unreleased)
+1.1 - (2021-05-20)
 ---------------------------
 * Change: Added missing themes from themes taxonomy and a new themesmerged
   taxonomy
